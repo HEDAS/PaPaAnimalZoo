@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="recruitListIRSkin" width="292" height="61" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="mallPanelListIR_png" width="101%" height="100%" anchorOffsetX="0" anchorOffsetY="0" scale9Grid="25,11,152,66" x="0" y="0"/>
+	<e:Image source="mallIconShadow_png" x="4" y="41" anchorOffsetX="0" width="62" anchorOffsetY="0" height="12"/>
+	<e:Image anchorOffsetX="0" width="55.75" anchorOffsetY="0" height="48" x="7.13" y="2" source="{data.icon}"/>
+	<e:Label x="69.5" y="8.25" anchorOffsetX="0" width="135.75" fontFamily="SimHei" strokeColor="0xb07a4d" stroke="0.5" anchorOffsetY="0" height="22.25" size="18" textColor="0x7a441f" text="{data.name}"/>
+	<e:Label x="69.5" y="31.5" anchorOffsetX="0" width="150.25" fontFamily="SimHei" strokeColor="0xb07a4d" stroke="0.5" anchorOffsetY="0" height="12.5" size="11" textColor="0xc1733e" text="{data.num}"/>
+	<e:Button label="" x="214" y="17.67" width="59.33" height="23.33" anchorOffsetX="0" anchorOffsetY="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="btnMallBuyDark_png" source.down="btnMallBuyLight_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label x="224" y="20" size="15" fontFamily="SimHei" text="{data.buy}" touchEnabled="false"/>
+</e:Skin>

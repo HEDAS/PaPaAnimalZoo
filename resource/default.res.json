@@ -1,0 +1,1110 @@
+{
+	"groups": [
+		{
+			"keys": "birdBg_png,class_png,clothes_png,friends_png,home_png,iconPlate_png,mall_png,recruit_png,important_png,luckyWheel_png,monthCard_png,oneYuan_png,hideDark_png,hideLight_png,handbook_png,horn_png,jigsaw_png,redPacket_png,task_png,energy_png,mail_png,rank_png,setting_png,switcherDark_png,switcherLight_png,switcherPanel_png,diamonds_png,diamondsPanel_png,moneyIcon_png,moneyPanel_png,loadingBg_jpg,progressBar_png,progressBg_png,progressIcon_png,animalMerge1_png,animalMerge2_png,animalMerge3_png,animalMerge4_png,eggColorful_png,eggGold_png,pillar1_png,pillar2_png,pillar3_png,pillar4_png,animalNormal1_1_png,animalNormal1_2_png,animalNormal1_3_png,animalNormal1_4_png,animalNormal1_5_png,animalSkin1_1_png,animalSkin1_2_png,animalSkin1_3_png,animalSkin1_4_png,animalSkin1_5_png,animalSpecial1_5_png,bg1_jpg,mushroomHouseBottom_png,mushroomHouseMiddle_png,mushroomHouseTop_png,Produce1_png,Produce2_png,Produce3_png,Produce4_png,totem1_1_png,totem1_2_png,totem1_3_png,totem1_4_png,animalNormal2_1_png,animalNormal2_2_png,animalNormal2_3_png,animalNormal2_4_png,animalNormal2_5_png,animalSkin2_1_png,animalSkin2_1_1_png,animalSkin2_2_png,animalSkin2_3_png,animalSkin2_4_png,animalSkin2_5_png,animalSpecial2_1_png,animalSpecial2_2_png,animalSpecial2_3_png,animalSpecial2_4_png,animalSpecial2_5_png,bg2_jpg,totem2_1_png,totem2_2_png,totem2_3_png,totem2_4_png,animalNormal3_1_png,animalNormal3_2_png,animalNormal3_3_png,animalNormal3_4_png,animalNormal3_5_png,animalSkin3_1_png,animalSkin3_2_png,animalSkin3_3_png,animalSkin3_4_png,animalSkin3_5_png,animalSpecial3_1_png,animalSpecial3_2_png,animalSpecial3_3_png,animalSpecial3_4_png,animalSpecial3_5_png,bg3_jpg,ExplorationBottom_png,ExplorationMiddle_png,ExplorationShining_png,ExplorationTop_png,totem3_1_png,totem3_2_png,totem3_3_png,totem3_4_png,animalNormal4_1_png,animalNormal4_2_png,animalNormal4_3_png,animalNormal4_4_png,animalNormal4_5_png,animalSkin4_1_png,animalSkin4_2_png,animalSkin4_3_png,animalSkin4_4_png,animalSkin4_5_png,animalSpecial4_1_png,animalSpecial4_2_png,animalSpecial4_3_png,animalSpecial4_4_png,animalSpecial4_5_png,bg4_jpg,totem4_1_png,totem4_2_png,totem4_3_png,totem4_4_png,animalNormal5_1_png,animalNormal5_2_png,animalNormal5_3_png,animalNormal5_4_png,animalNormal5_5_png,animalNormal5_6_png,animalSpecial5_1_png,animalSpecial5_2_png,animalSpecial5_3_png,animalSpecial5_4_png,animalSpecial5_5_png,animalSpecial5_6_png,bg5_jpg,totem5_1_png,totem5_2_png,totem5_3_png,totem5_4_png,animalNormal6_1_png,animalNormal6_2_png,animalNormal6_3_png,animalNormal6_4_png,animalNormal6_5_png,animalNormal6_6_png,bg6_jpg,totem6_1_png,totem6_2_png,totem6_3_png,totem6_4_png,full_png,sceneIconDark1_png,sceneIconDark2_png,sceneIconDark3_png,sceneIconDark4_png,sceneIconDark5_png,sceneIconDark6_png,sceneIconLight1_png,sceneIconLight2_png,sceneIconLight3_png,sceneIconLight4_png,sceneIconLight5_png,sceneIconLight6_png,sceneIconPlate_png,bg_music_mp3,coin_mp3,fight_mp3,house_click_mp3,merge_mp3,steal_mp3,victory_mp3,zhuanpan_mp3,buttonDark_png,buttonLight_png,monthCardPanel_png,closeLight_png,closeDark_png,bg_png,oneYuanTips_png,oneYuanPanel_png,oneYuanPanelBottom_png,oneYuanPanelTop_png,oneYuanShow_png,oneYuanPanelCloseDark_png,oneYuanPanelCloseLIght_png,btnRecruitLight_png,btnRecruitDark_png,bottomShadow_png,btnMallBuyDark_png,btnMallBuyLight_png,mallBg_png,mallIcon1_png,mallIcon2_png,mallIcon3_png,mallIcon4_png,mallIcon5_png,mallIcon6_png,mallIcon7_png,mallIcon8_png,mallIcon9_png,mallIcon10_png,mallIconShadow_png,mallPanelListIR_png,mallRoof_png,oneYuan1_png,oneYuan2_png,oneYuan3_png,oneYuanBg_png,AnimalPaPa_json,AnimalPaPa_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "birdBg_png",
+			"type": "image",
+			"url": "arts/action/birdBg.png"
+		},
+		{
+			"name": "class_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/class.png"
+		},
+		{
+			"name": "clothes_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/clothes.png"
+		},
+		{
+			"name": "friends_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/friends.png"
+		},
+		{
+			"name": "home_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/home.png"
+		},
+		{
+			"name": "iconPlate_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/iconPlate.png"
+		},
+		{
+			"name": "mall_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mall.png"
+		},
+		{
+			"name": "recruit_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/recruit.png"
+		},
+		{
+			"name": "important_png",
+			"type": "image",
+			"url": "arts/action/important.png"
+		},
+		{
+			"name": "luckyWheel_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/luckyWheel.png"
+		},
+		{
+			"name": "monthCard_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/monthCard.png"
+		},
+		{
+			"name": "oneYuan_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuan.png"
+		},
+		{
+			"name": "hideDark_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/hideDark.png"
+		},
+		{
+			"name": "hideLight_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/hideLight.png"
+		},
+		{
+			"name": "handbook_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch1/handbook.png"
+		},
+		{
+			"name": "horn_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch1/horn.png"
+		},
+		{
+			"name": "jigsaw_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch1/jigsaw.png"
+		},
+		{
+			"name": "redPacket_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch1/redPacket.png"
+		},
+		{
+			"name": "task_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch1/task.png"
+		},
+		{
+			"name": "energy_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch2/energy.png"
+		},
+		{
+			"name": "mail_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch2/mail.png"
+		},
+		{
+			"name": "rank_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch2/rank.png"
+		},
+		{
+			"name": "setting_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switch2/setting.png"
+		},
+		{
+			"name": "switcherDark_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switcherDark.png"
+		},
+		{
+			"name": "switcherLight_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switcherLight.png"
+		},
+		{
+			"name": "switcherPanel_png",
+			"type": "image",
+			"url": "arts/action/rightIcon/switcherPanel.png"
+		},
+		{
+			"name": "diamonds_png",
+			"type": "image",
+			"url": "arts/assetPanel/diamonds/diamonds.png"
+		},
+		{
+			"name": "diamondsPanel_png",
+			"type": "image",
+			"url": "arts/assetPanel/diamonds/diamondsPanel.png"
+		},
+		{
+			"name": "moneyIcon_png",
+			"type": "image",
+			"url": "arts/assetPanel/money/moneyIcon.png"
+		},
+		{
+			"name": "moneyPanel_png",
+			"type": "image",
+			"url": "arts/assetPanel/money/moneyPanel.png"
+		},
+		{
+			"name": "loadingBg_jpg",
+			"type": "image",
+			"url": "arts/loading/loadingBg.jpg"
+		},
+		{
+			"name": "progressBar_png",
+			"type": "image",
+			"url": "arts/loading/progressBar.png"
+		},
+		{
+			"name": "progressBg_png",
+			"type": "image",
+			"url": "arts/loading/progressBg.png"
+		},
+		{
+			"name": "progressIcon_png",
+			"type": "image",
+			"url": "arts/loading/progressIcon.png"
+		},
+		{
+			"name": "animalMerge1_png",
+			"type": "image",
+			"url": "arts/scenePanel/animalMerge/animalMerge1.png"
+		},
+		{
+			"name": "animalMerge2_png",
+			"type": "image",
+			"url": "arts/scenePanel/animalMerge/animalMerge2.png"
+		},
+		{
+			"name": "animalMerge3_png",
+			"type": "image",
+			"url": "arts/scenePanel/animalMerge/animalMerge3.png"
+		},
+		{
+			"name": "animalMerge4_png",
+			"type": "image",
+			"url": "arts/scenePanel/animalMerge/animalMerge4.png"
+		},
+		{
+			"name": "eggColorful_png",
+			"type": "image",
+			"url": "arts/scenePanel/eggColorful.png"
+		},
+		{
+			"name": "eggGold_png",
+			"type": "image",
+			"url": "arts/scenePanel/eggGold.png"
+		},
+		{
+			"name": "pillar1_png",
+			"type": "image",
+			"url": "arts/scenePanel/pillar1.png"
+		},
+		{
+			"name": "pillar2_png",
+			"type": "image",
+			"url": "arts/scenePanel/pillar2.png"
+		},
+		{
+			"name": "pillar3_png",
+			"type": "image",
+			"url": "arts/scenePanel/pillar3.png"
+		},
+		{
+			"name": "pillar4_png",
+			"type": "image",
+			"url": "arts/scenePanel/pillar4.png"
+		},
+		{
+			"name": "animalNormal1_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalNormal1_1.png"
+		},
+		{
+			"name": "animalNormal1_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalNormal1_2.png"
+		},
+		{
+			"name": "animalNormal1_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalNormal1_3.png"
+		},
+		{
+			"name": "animalNormal1_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalNormal1_4.png"
+		},
+		{
+			"name": "animalNormal1_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalNormal1_5.png"
+		},
+		{
+			"name": "animalSkin1_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalSkin1_1.png"
+		},
+		{
+			"name": "animalSkin1_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalSkin1_2.png"
+		},
+		{
+			"name": "animalSkin1_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalSkin1_3.png"
+		},
+		{
+			"name": "animalSkin1_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalSkin1_4.png"
+		},
+		{
+			"name": "animalSkin1_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalSkin1_5.png"
+		},
+		{
+			"name": "animalSpecial1_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/animalSpecial1_5.png"
+		},
+		{
+			"name": "bg1_jpg",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/bg1.jpg"
+		},
+		{
+			"name": "mushroomHouseBottom_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/mushroomHouseBottom.png"
+		},
+		{
+			"name": "mushroomHouseMiddle_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/mushroomHouseMiddle.png"
+		},
+		{
+			"name": "mushroomHouseTop_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/mushroomHouseTop.png"
+		},
+		{
+			"name": "Produce1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/Produce1.png"
+		},
+		{
+			"name": "Produce2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/Produce2.png"
+		},
+		{
+			"name": "Produce3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/Produce3.png"
+		},
+		{
+			"name": "Produce4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/mushroomHouse/Produce4.png"
+		},
+		{
+			"name": "totem1_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/totem1_1.png"
+		},
+		{
+			"name": "totem1_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/totem1_2.png"
+		},
+		{
+			"name": "totem1_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/totem1_3.png"
+		},
+		{
+			"name": "totem1_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene1/totem1_4.png"
+		},
+		{
+			"name": "animalNormal2_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalNormal2_1.png"
+		},
+		{
+			"name": "animalNormal2_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalNormal2_2.png"
+		},
+		{
+			"name": "animalNormal2_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalNormal2_3.png"
+		},
+		{
+			"name": "animalNormal2_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalNormal2_4.png"
+		},
+		{
+			"name": "animalNormal2_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalNormal2_5.png"
+		},
+		{
+			"name": "animalSkin2_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSkin2_1.png"
+		},
+		{
+			"name": "animalSkin2_1_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSkin2_1_1.png"
+		},
+		{
+			"name": "animalSkin2_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSkin2_2.png"
+		},
+		{
+			"name": "animalSkin2_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSkin2_3.png"
+		},
+		{
+			"name": "animalSkin2_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSkin2_4.png"
+		},
+		{
+			"name": "animalSkin2_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSkin2_5.png"
+		},
+		{
+			"name": "animalSpecial2_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSpecial2_1.png"
+		},
+		{
+			"name": "animalSpecial2_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSpecial2_2.png"
+		},
+		{
+			"name": "animalSpecial2_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSpecial2_3.png"
+		},
+		{
+			"name": "animalSpecial2_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSpecial2_4.png"
+		},
+		{
+			"name": "animalSpecial2_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/animalSpecial2_5.png"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/bg2.jpg"
+		},
+		{
+			"name": "totem2_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/totem2_1.png"
+		},
+		{
+			"name": "totem2_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/totem2_2.png"
+		},
+		{
+			"name": "totem2_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/totem2_3.png"
+		},
+		{
+			"name": "totem2_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene2/totem2_4.png"
+		},
+		{
+			"name": "animalNormal3_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalNormal3_1.png"
+		},
+		{
+			"name": "animalNormal3_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalNormal3_2.png"
+		},
+		{
+			"name": "animalNormal3_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalNormal3_3.png"
+		},
+		{
+			"name": "animalNormal3_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalNormal3_4.png"
+		},
+		{
+			"name": "animalNormal3_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalNormal3_5.png"
+		},
+		{
+			"name": "animalSkin3_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSkin3_1.png"
+		},
+		{
+			"name": "animalSkin3_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSkin3_2.png"
+		},
+		{
+			"name": "animalSkin3_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSkin3_3.png"
+		},
+		{
+			"name": "animalSkin3_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSkin3_4.png"
+		},
+		{
+			"name": "animalSkin3_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSkin3_5.png"
+		},
+		{
+			"name": "animalSpecial3_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSpecial3_1.png"
+		},
+		{
+			"name": "animalSpecial3_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSpecial3_2.png"
+		},
+		{
+			"name": "animalSpecial3_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSpecial3_3.png"
+		},
+		{
+			"name": "animalSpecial3_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSpecial3_4.png"
+		},
+		{
+			"name": "animalSpecial3_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/animalSpecial3_5.png"
+		},
+		{
+			"name": "bg3_jpg",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/bg3.jpg"
+		},
+		{
+			"name": "ExplorationBottom_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/ExplorationBottom.png"
+		},
+		{
+			"name": "ExplorationMiddle_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/ExplorationMiddle.png"
+		},
+		{
+			"name": "ExplorationShining_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/ExplorationShining.png"
+		},
+		{
+			"name": "ExplorationTop_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/ExplorationTop.png"
+		},
+		{
+			"name": "totem3_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/totem3_1.png"
+		},
+		{
+			"name": "totem3_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/totem3_2.png"
+		},
+		{
+			"name": "totem3_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/totem3_3.png"
+		},
+		{
+			"name": "totem3_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene3/totem3_4.png"
+		},
+		{
+			"name": "animalNormal4_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalNormal4_1.png"
+		},
+		{
+			"name": "animalNormal4_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalNormal4_2.png"
+		},
+		{
+			"name": "animalNormal4_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalNormal4_3.png"
+		},
+		{
+			"name": "animalNormal4_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalNormal4_4.png"
+		},
+		{
+			"name": "animalNormal4_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalNormal4_5.png"
+		},
+		{
+			"name": "animalSkin4_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSkin4_1.png"
+		},
+		{
+			"name": "animalSkin4_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSkin4_2.png"
+		},
+		{
+			"name": "animalSkin4_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSkin4_3.png"
+		},
+		{
+			"name": "animalSkin4_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSkin4_4.png"
+		},
+		{
+			"name": "animalSkin4_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSkin4_5.png"
+		},
+		{
+			"name": "animalSpecial4_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSpecial4_1.png"
+		},
+		{
+			"name": "animalSpecial4_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSpecial4_2.png"
+		},
+		{
+			"name": "animalSpecial4_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSpecial4_3.png"
+		},
+		{
+			"name": "animalSpecial4_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSpecial4_4.png"
+		},
+		{
+			"name": "animalSpecial4_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/animalSpecial4_5.png"
+		},
+		{
+			"name": "bg4_jpg",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/bg4.jpg"
+		},
+		{
+			"name": "totem4_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/totem4_1.png"
+		},
+		{
+			"name": "totem4_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/totem4_2.png"
+		},
+		{
+			"name": "totem4_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/totem4_3.png"
+		},
+		{
+			"name": "totem4_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene4/totem4_4.png"
+		},
+		{
+			"name": "animalNormal5_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalNormal5_1.png"
+		},
+		{
+			"name": "animalNormal5_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalNormal5_2.png"
+		},
+		{
+			"name": "animalNormal5_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalNormal5_3.png"
+		},
+		{
+			"name": "animalNormal5_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalNormal5_4.png"
+		},
+		{
+			"name": "animalNormal5_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalNormal5_5.png"
+		},
+		{
+			"name": "animalNormal5_6_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalNormal5_6.png"
+		},
+		{
+			"name": "animalSpecial5_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalSpecial5_1.png"
+		},
+		{
+			"name": "animalSpecial5_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalSpecial5_2.png"
+		},
+		{
+			"name": "animalSpecial5_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalSpecial5_3.png"
+		},
+		{
+			"name": "animalSpecial5_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalSpecial5_4.png"
+		},
+		{
+			"name": "animalSpecial5_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalSpecial5_5.png"
+		},
+		{
+			"name": "animalSpecial5_6_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/animalSpecial5_6.png"
+		},
+		{
+			"name": "bg5_jpg",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/bg5.jpg"
+		},
+		{
+			"name": "totem5_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/totem5_1.png"
+		},
+		{
+			"name": "totem5_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/totem5_2.png"
+		},
+		{
+			"name": "totem5_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/totem5_3.png"
+		},
+		{
+			"name": "totem5_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene5/totem5_4.png"
+		},
+		{
+			"name": "animalNormal6_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/animalNormal6_1.png"
+		},
+		{
+			"name": "animalNormal6_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/animalNormal6_2.png"
+		},
+		{
+			"name": "animalNormal6_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/animalNormal6_3.png"
+		},
+		{
+			"name": "animalNormal6_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/animalNormal6_4.png"
+		},
+		{
+			"name": "animalNormal6_5_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/animalNormal6_5.png"
+		},
+		{
+			"name": "animalNormal6_6_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/animalNormal6_6.png"
+		},
+		{
+			"name": "bg6_jpg",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/bg6.jpg"
+		},
+		{
+			"name": "totem6_1_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/totem6_1.png"
+		},
+		{
+			"name": "totem6_2_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/totem6_2.png"
+		},
+		{
+			"name": "totem6_3_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/totem6_3.png"
+		},
+		{
+			"name": "totem6_4_png",
+			"type": "image",
+			"url": "arts/scenePanel/scene6/totem6_4.png"
+		},
+		{
+			"name": "full_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/full.png"
+		},
+		{
+			"name": "sceneIconDark1_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconDark1.png"
+		},
+		{
+			"name": "sceneIconDark2_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconDark2.png"
+		},
+		{
+			"name": "sceneIconDark3_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconDark3.png"
+		},
+		{
+			"name": "sceneIconDark4_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconDark4.png"
+		},
+		{
+			"name": "sceneIconDark5_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconDark5.png"
+		},
+		{
+			"name": "sceneIconDark6_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconDark6.png"
+		},
+		{
+			"name": "sceneIconLight1_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconLight1.png"
+		},
+		{
+			"name": "sceneIconLight2_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconLight2.png"
+		},
+		{
+			"name": "sceneIconLight3_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconLight3.png"
+		},
+		{
+			"name": "sceneIconLight4_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconLight4.png"
+		},
+		{
+			"name": "sceneIconLight5_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconLight5.png"
+		},
+		{
+			"name": "sceneIconLight6_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconLight6.png"
+		},
+		{
+			"name": "sceneIconPlate_png",
+			"type": "image",
+			"url": "arts/scenePanel/topIcon/sceneIconPlate.png"
+		},
+		{
+			"name": "bg_music_mp3",
+			"type": "sound",
+			"url": "music/bg_music.mp3"
+		},
+		{
+			"name": "coin_mp3",
+			"type": "sound",
+			"url": "music/coin.mp3"
+		},
+		{
+			"name": "fight_mp3",
+			"type": "sound",
+			"url": "music/fight.mp3"
+		},
+		{
+			"name": "house_click_mp3",
+			"type": "sound",
+			"url": "music/house_click.mp3"
+		},
+		{
+			"name": "merge_mp3",
+			"type": "sound",
+			"url": "music/merge.mp3"
+		},
+		{
+			"name": "steal_mp3",
+			"type": "sound",
+			"url": "music/steal.mp3"
+		},
+		{
+			"name": "victory_mp3",
+			"type": "sound",
+			"url": "music/victory.mp3"
+		},
+		{
+			"name": "zhuanpan_mp3",
+			"type": "sound",
+			"url": "music/zhuanpan.mp3"
+		},
+		{
+			"name": "buttonDark_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/buttonDark.png"
+		},
+		{
+			"name": "buttonLight_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/buttonLight.png"
+		},
+		{
+			"name": "monthCardPanel_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/monthCardPanel.png"
+		},
+		{
+			"name": "closeLight_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/closeLight.png"
+		},
+		{
+			"name": "closeDark_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/closeDark.png"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "arts/action/bg.png"
+		},
+		{
+			"name": "oneYuanTips_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanTips.png"
+		},
+		{
+			"name": "oneYuanPanel_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanPanel.png"
+		},
+		{
+			"name": "oneYuanPanelBottom_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanPanelBottom.png"
+		},
+		{
+			"name": "oneYuanPanelTop_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanPanelTop.png"
+		},
+		{
+			"name": "oneYuanShow_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanShow.png"
+		},
+		{
+			"name": "oneYuanPanelCloseDark_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanPanelCloseDark.png"
+		},
+		{
+			"name": "oneYuanPanelCloseLIght_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanPanelCloseLIght.png"
+		},
+		{
+			"name": "btnRecruitLight_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/btnRecruitLight.png"
+		},
+		{
+			"name": "btnRecruitDark_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/btnRecruitDark.png"
+		},
+		{
+			"name": "bottomShadow_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/bottomShadow.png"
+		},
+		{
+			"name": "btnMallBuyDark_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/btnMallBuyDark.png"
+		},
+		{
+			"name": "btnMallBuyLight_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/btnMallBuyLight.png"
+		},
+		{
+			"name": "mallBg_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallBg.png"
+		},
+		{
+			"name": "mallIcon1_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon1.png"
+		},
+		{
+			"name": "mallIcon2_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon2.png"
+		},
+		{
+			"name": "mallIcon3_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon3.png"
+		},
+		{
+			"name": "mallIcon4_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon4.png"
+		},
+		{
+			"name": "mallIcon5_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon5.png"
+		},
+		{
+			"name": "mallIcon6_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon6.png"
+		},
+		{
+			"name": "mallIcon7_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon7.png"
+		},
+		{
+			"name": "mallIcon8_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon8.png"
+		},
+		{
+			"name": "mallIcon9_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon9.png"
+		},
+		{
+			"name": "mallIcon10_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIcon10.png"
+		},
+		{
+			"name": "mallIconShadow_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallIconShadow.png"
+		},
+		{
+			"name": "mallPanelListIR_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallPanelListIR.png"
+		},
+		{
+			"name": "mallRoof_png",
+			"type": "image",
+			"url": "arts/action/bottomIcon/mallRoof.png"
+		},
+		{
+			"name": "oneYuan1_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuan1.png"
+		},
+		{
+			"name": "oneYuan2_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuan2.png"
+		},
+		{
+			"name": "oneYuan3_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuan3.png"
+		},
+		{
+			"name": "oneYuanBg_png",
+			"type": "image",
+			"url": "arts/action/leftIcon/oneYuanBg.png"
+		},
+		{
+			"name": "AnimalPaPa_json",
+			"type": "json",
+			"url": "arts/scenePanel/animalMerge/AnimalPaPa.json"
+		},
+		{
+			"name": "AnimalPaPa_png",
+			"type": "image",
+			"url": "arts/scenePanel/animalMerge/AnimalPaPa.png"
+		}
+	]
+}

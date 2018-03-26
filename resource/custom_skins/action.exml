@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="action" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="imgBg" width="600" height="800" x="-60"/>
+
+	<e:Image source="diamondsPanel_png" x="290" y="5.5"/>
+	<e:Image source="diamonds_png" x="272" y="-0.5"/>
+	<e:Label id="diamond" text="4220" x="350" y="15.5" bold="true"/>
+
+	<e:Image source="moneyPanel_png" x="8.5" y="5.5"/>
+	<e:Image source="moneyIcon_png" x="6.5" y="3.5"/>
+	<e:Label id="money" text="4.12G" x="81.5" y="16.5" bold="true" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Label id="speed" text="127M/秒" x="66.5" y="55.5" textColor="0x474343" bold="true" fontFamily="Microsoft YaHei" size="22"/>
+
+	<!--场景切换-->
+	<e:Image source="sceneIconPlate_png" y="140" scaleX="0.8" scaleY="0.8"/>
+	<e:ToggleButton id="scene1" x="0" y="105" width="54" height="54" scaleX="0.8" scaleY="0.8" selected="true" touchEnabled="false">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="sceneIconLight1_png" source.down="sceneIconDark1_png"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:ToggleButton id="scene2" label="" x="43" y="105" width="54" height="54" scaleX="0.8" scaleY="0.8">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="sceneIconLight2_png" source.down="sceneIconDark2_png"/>
+		</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:ToggleButton id="scene3" label="" x="86" y="105" width="54" height="54" scaleX="0.8" scaleY="0.8">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="sceneIconLight3_png" source.down="sceneIconDark3_png"/>
+		</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:ToggleButton id="scene4" label="" x="129" y="105" width="54" height="54" scaleX="0.8" scaleY="0.8">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="sceneIconLight4_png" source.down="sceneIconDark4_png"/>
+		</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:ToggleButton id="scene5" label="" x="172" y="105" width="54" height="54" scaleX="0.8" scaleY="0.8">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="sceneIconLight5_png" source.down="sceneIconDark5_png"/>
+		</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:ToggleButton id="scene6" label="" x="215" y="105" width="54" height="54" scaleX="0.8" scaleY="0.8">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="sceneIconLight6_png" source.down="sceneIconDark6_png"/>
+		</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:Label horizontalCenter="-218.5" text="园区" size="13" y="138" textColor="0xffffff" fontFamily="SimHei" bold="true" strokeColor="0x560101" stroke="1" touchEnabled="false"/>
+	<e:Label horizontalCenter="-175.5" text="野外" size="13" y="138" textColor="0xFFFFFF" fontFamily="SimHei" bold="true" strokeColor="0x560101" stroke="1" touchEnabled="false"/>
+	<e:Label text="树林" size="13" y="138" textColor="0xFFFFFF" fontFamily="SimHei" bold="true" strokeColor="0x560101" stroke="1" touchEnabled="false" x="94"/>
+	<e:Label horizontalCenter="-89.5" text="海边" size="13" y="138" textColor="0xFFFFFF" fontFamily="SimHei" bold="true" strokeColor="0x560101" stroke="1" touchEnabled="false"/>
+	<e:Label text="沙漠" size="13" y="138" textColor="0xFFFFFF" fontFamily="SimHei" bold="true" strokeColor="0x560101" stroke="1" touchEnabled="false" x="180"/>
+	<e:Label horizontalCenter="-3.5" text="极地" size="13" y="138" textColor="0xFFFFFF" fontFamily="SimHei" bold="true" strokeColor="0x560101" stroke="1" touchEnabled="false"/>
+
+    <!--左侧-->
+    <e:Image id="oneYuan" source="oneYuan_png" x="18.5" y="528.66" scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="monthCard" source="monthCard_png" x="18.5" y="600.66" scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="luckyWheel" source="luckyWheel_png" x="18.5" y="672.66" scaleX="0.8" scaleY="0.8"/>
+	<e:Label text="1元礼包" x="12.83" y="569.86" fontFamily="SimHei" size="21" textColor="0xffffff" bold="true" strokeColor="0x5c320e" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+	<e:Label text="月卡" x="25.7" y="641.86" fontFamily="SimHei" size="21" textColor="0xFFFFFF" bold="true" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+	<e:Label text="转盘" x="26.03" y="713.86" fontFamily="SimHei" size="21" textColor="0xFFFFFF" bold="true" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+
+    <!--下侧-->
+    <e:Image source="iconPlate_png" x="56.63" y="755.96" scaleX="0.75" scaleY="0.75"/>
+	<e:Image id="recruit" source="recruit_png" x="81.5" y="738" scaleX="0.75" scaleY="0.75"/>
+	<e:Image id="classroom" source="class_png" x="135.5" y="738" scaleX="0.75" scaleY="0.75"/>
+	<e:Image id="friends" source="friends_png" x="189" y="738" scaleX="0.75" scaleY="0.75"/>
+	<e:Image id="home" source="home_png" x="241" y="738" scaleX="0.75" scaleY="0.75"/>
+	<e:Image id="clothes" source="clothes_png" x="295" y="738" scaleX="0.75" scaleY="0.75"/>
+	<e:Image id="mall" source="mall_png" x="348" y="738" scaleX="0.75" scaleY="0.75"/>
+	<e:Label text="招募" x="87" y="775" fontFamily="SimHei" bold="true" textColor="0xffffff" strokeColor="0x5c320e" stroke="3" scaleX="0.75" scaleY="0.75" size="25" touchEnabled="false"/>
+	<e:Label text="课堂" x="142" y="775" fontFamily="SimHei" bold="true" textColor="0xFFFFFF" strokeColor="0x5C320E" stroke="3" scaleX="0.75" scaleY="0.75" size="25" touchEnabled="false"/>
+	<e:Label text="社交" x="196" y="775" fontFamily="SimHei" bold="true" textColor="0xFFFFFF" strokeColor="0x5C320E" stroke="3" scaleX="0.75" scaleY="0.75" size="25" touchEnabled="false"/>
+	<e:Label text="家园" x="249" y="775" fontFamily="SimHei" bold="true" textColor="0xFFFFFF" strokeColor="0x5C320E" stroke="3" scaleX="0.75" scaleY="0.75" size="25" touchEnabled="false"/>
+	<e:Label text="时装" x="303" y="775" fontFamily="SimHei" bold="true" textColor="0xFFFFFF" strokeColor="0x5C320E" stroke="3" scaleX="0.75" scaleY="0.75" size="25" touchEnabled="false"/>
+	<e:Label text="商城" x="356" y="775" fontFamily="SimHei" bold="true" textColor="0xFFFFFF" strokeColor="0x5C320E" stroke="3" scaleX="0.75" scaleY="0.75" size="25" touchEnabled="false"/>
+
+	<!--右侧-->
+    <e:Image source="hideLight_png" x="370.7" y="138.66" scaleX="0.8" scaleY="0.8"/>
+	<e:Image source="switcherPanel_png" x="406.7" y="126.66" scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="switcher" source="switcherLight_png" x="413.2" y="134.66" scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="task" source="task_png" x="410" y="194"  scaleX="0.8" scaleY="0.8"/>
+
+	<e:Image id="jigsaw" source="jigsaw_png" x="410" y="266"  scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="redPacket" source="redPacket_png" x="410" y="338"  scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="handbook" source="handbook_png" x="410" y="410" width="61" height="62"  scaleX="0.8" scaleY="0.8"/>
+	<e:Image id="horn" source="horn_png" x="410" y="482"  scaleX="0.8" scaleY="0.8"/>
+	<e:Label text="任务"  x="418" y="240" fontFamily="SimHei" size="21" strokeColor="0x5c320e" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+	<e:Label text="拼图"  x="418" y="310" fontFamily="SimHei" size="21" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+	<e:Label text="红包"  x="418" y="380" fontFamily="SimHei" size="21" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+	<e:Label text="图鉴"  x="418" y="450" fontFamily="SimHei" size="21" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+	<e:Label text="消息"  x="418" y="520" fontFamily="SimHei" size="21" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false"/>
+    
+	<e:Image id="energy" source="energy_png"  x="410" y="194" scaleX="0.8" scaleY="0.8" visible="false"/>
+	<e:Image id="rank" source="rank_png"  x="410" y="266" scaleX="0.8" scaleY="0.8" visible="false"/>
+	<e:Image id="mail" source="mail_png"  x="410" y="338" scaleX="0.8" scaleY="0.8" visible="false"/>
+	<e:Image id="setting" source="setting_png"  x="410" y="410" scaleX="0.8" scaleY="0.8" visible="false"/>
+	<e:Label text="能量"  x="418" y="240" size="21" fontFamily="SimHei" strokeColor="0x5c320e" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false" visible="false"/>
+	<e:Label text="排行"  x="418" y="310" size="21" fontFamily="SimHei" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false" visible="false"/>
+	<e:Label text="邮件"  x="418" y="380" size="21" fontFamily="SimHei" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false" visible="false"/>
+	<e:Label text="设置"  x="418" y="450" size="21" fontFamily="SimHei" strokeColor="0x5C320E" stroke="3" scaleX="0.8" scaleY="0.8" touchEnabled="false" visible="false"/>
+	<e:Group id="animal" width="306" height="510" x="87.25" y="190.8" anchorOffsetX="0" anchorOffsetY="0">
+	</e:Group>
+
+</e:Skin>
